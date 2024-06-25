@@ -3,6 +3,26 @@
 
 ## Que puede hacer el procesador de texto
 
-**negritas**
+**negritas 1**
 
-__cursiva__
+__negritas 2__
+
+*cursiva 1*
+
+_cursiva 2_
+
+***negritas y cursiva 1***
+
+___negritas y cursiva 2___
+
+## Generar listas
+
+1. Lista de colores
+
+    - azul
+    - rojo
+  
+    - Combinaciones
+  
+        - morado
+        - verde   
