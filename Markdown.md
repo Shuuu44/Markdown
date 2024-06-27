@@ -60,3 +60,11 @@ Este espacio es para crear codigos de bloque (solo se pueden copiar)
 
 ***Se ponen entre los mayores que, no necesitan titulos***
 ---
+## Vamos a ver la forma de crear tablas
+| 1er columna | 2da columna | 3er columna |
+|--|--|--|
+|contenido 1-1|contenido 1-2|contenido 1-3|
+|contenido 2.1|contenido2.2|contenido 2.3|
+|contenido 3/1|contenido 3/2|contenido 3/4|
+
+***El contenido de cada columa siempre debe ir dentro de las barras verticales para que pueda leerlo como una tabla***
