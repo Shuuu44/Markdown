@@ -1,6 +1,8 @@
 # Vamos a pracricar con MARKDOWN #
 [ Enlace a MARKDOWN ](https://markdown.es/sintaxis-markdown/#bloque)
 
+***El enlace primero se especifica con un título, seguido del link***
+---
 ## Que puede hacer el procesador de texto
 
 # Titulo Principal
@@ -21,6 +23,8 @@ _cursiva 2_
 ***negritas y cursiva 1***
 
 ___negritas y cursiva 2___
+
+***Son limitados los formatos que podemos utilizar***
 ***
 ## Generar listas
 
@@ -33,6 +37,8 @@ ___negritas y cursiva 2___
   
         - morado
         - verde   
+
+Esta es la forma de crear listas dentro de listas
 ---
 ### Vamos a crear citas 
 
@@ -44,4 +50,13 @@ ___negritas y cursiva 2___
 Este espacio es para crear codigos de bloque (solo se pueden copiar)
 ~~~
 ---
+## Esta vez vamos a agregar imagenes
+![Mostraremos una foto](imagenes/comandos.jpg)
 
+***Es mas facil jalar imagenes dentro de la carpeta donde está el repositorio***
+---
+## Vamos a crear link automaticos
+<https://markdown.es/sintaxis-markdown/#bloque>
+
+***Se ponen entre los mayores que, no necesitan titulos***
+---
